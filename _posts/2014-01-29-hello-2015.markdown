@@ -2,7 +2,7 @@
 layout:     post
 title:      "Hello 2016"
 subtitle:   " \"Hello World, Hello Blog\""
-date:       2015-01-29 12:00:00
+date:       2016-09-04 01:00:00
 author:     "WangWei"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
@@ -10,7 +10,7 @@ tags:
     - 生活
 ---
 
-> “Life was like a box of chocolates, you never know what you're gonna get. ”
+> “Life was like a box of chocolates, you never know what you're gonna get！”
 
 
 ## 前言
@@ -33,5 +33,3 @@ tags:
 ---
 ## 后记
 终于成功了！
-
-
