@@ -4,7 +4,7 @@ title:      "Hello 2016"
 subtitle:   " \"Hello World, Hello Blog\""
 date:       2016-09-04 01:00:00
 author:     "WangWei"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/post-bg-2016.jpg"
 catalog: true
 tags:
     - 生活
@@ -21,9 +21,11 @@ tags:
 2016 年，加油少年！
 
 ---
+
 ## 正文
 还么有准备好呢~
 
 ---
+
 ## 后记
 终于成功了！
