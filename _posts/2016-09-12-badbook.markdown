@@ -1,13 +1,13 @@
 ---
 layout:     post
-title:      "Hello 2016"
-subtitle:   " \"Hello World, Hello Blog\""
-date:       2016-09-04 01:00:00
+title:      "烂书鉴定之不完全指南"
+subtitle:   "——你值得拥有"
+date:       2016-09-12 12:00:00
 author:     "WangWei"
 header-img: "img/post-bg-2016.jpg"
 catalog: true
 tags:
-    - 生活
+    - 读书
 ---
 
 > “万般皆下品，惟有读书高！”
