@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "程序员工作\"潜规则\""
-subtitle:   "——快乐地写代码"
+subtitle:   "——谁用谁知道"
 date:       2016-09-14
 author:     "WangWei"
 header-img: "img/post-bg-goodjob.jpg"
