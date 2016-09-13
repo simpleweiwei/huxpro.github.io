@@ -2,7 +2,7 @@
 layout:     post
 title:      "技术小咖修炼法则"
 subtitle:   "——路漫漫其修远兮,吾将上下而求索"
-date:       2016-09-12
+date:       2016-09-13
 author:     "WangWei"
 header-img: "img/post-bg-technical.jpg"
 catalog: true
