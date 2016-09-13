@@ -65,4 +65,4 @@ tags:
 8. **身体健康是10000小时的有效保证**
 
 某博客截图一张，仔细体会~
-![img](/img/in-post/post-technical-experts/01.jpg)
+![img](/img/in-post/post-technical-experts/No1.jpg)
