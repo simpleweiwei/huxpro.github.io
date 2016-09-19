@@ -4,7 +4,7 @@ title:      "烂书鉴定之不完全指南"
 subtitle:   "——你值得拥有"
 date:       2016-09-12 12:00:00
 author:     "WangWei"
-header-img: "img/post-bg-2016.jpg"
+header-img: "img/post-bg-badbook.jpg"
 catalog: true
 tags:
     - 读书
