@@ -4,7 +4,7 @@ title:      "我的平凡的生活"
 subtitle:   "——活在当下"
 date:       2016-12-15
 author:     "WangWei"
-header-img: "img/post-bg-focusBusiness.jpg"
+header-img: "img/post-bg-normalLife.jpg"
 catalog: true
 tags:
     - 生活
